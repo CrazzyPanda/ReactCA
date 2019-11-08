@@ -1,3 +1,7 @@
+View the Website on Firebase 
+
+Link: https://anime-web-123gc.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
